@@ -1,0 +1,10 @@
+D:\C#Workplace\实习项目之多线程\实习项目之多线程\bin\Debug\实习项目之多线程.exe
+D:\C#Workplace\实习项目之多线程\实习项目之多线程\bin\Debug\实习项目之多线程.pdb
+D:\C#Workplace\实习项目之多线程\实习项目之多线程\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#Workplace\实习项目之多线程\实习项目之多线程\obj\x86\Debug\实习项目之多线程.mainForm.resources
+D:\C#Workplace\实习项目之多线程\实习项目之多线程\obj\x86\Debug\实习项目之多线程.Properties.Resources.resources
+D:\C#Workplace\实习项目之多线程\实习项目之多线程\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#Workplace\实习项目之多线程\实习项目之多线程\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#Workplace\实习项目之多线程\实习项目之多线程\obj\x86\Debug\实习项目之多线程.exe
+D:\C#Workplace\实习项目之多线程\实习项目之多线程\obj\x86\Debug\实习项目之多线程.pdb
+D:\C#Workplace\实习项目之多线程\实习项目之多线程\bin\Debug\实习项目之多线程.exe.config
